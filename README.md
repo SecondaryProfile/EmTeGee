@@ -53,14 +53,16 @@ EmTeGee is a Kivy-based application that uses the Scryfall API to fetch Magic: T
 - The application expects you to give the card name EXACTLY. It ignores punctuation and capitalization, but you cannot make typos or give a partial name.
 - The speak button only speaks out the opposite text output.
 - The window size is set to 600x450 and is not resizable.
-- Add delay to searches to abide by Scryfall rate limit recomendation. 
+
 
 ## Roadmap
 
+- Add delay to searches to abide by Scryfall rate limit recomendation. 
 - Reminder text removal. Would be helpful since this app is meant for an audience where keywords will be useless, so replacing keywords with mechanical opposites and removing reminder text would be the most efficient use of space
 - Adapting to other platforms. Currently a kivy app using python. Might be more robust in React/Flutter
 - Partial matches. Maybe listing matches if partials exist for ease of use
 - Better error handling. This thing will crash if you blow air at it
+  
 
 ## Dependencies
 
