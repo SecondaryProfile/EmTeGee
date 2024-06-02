@@ -1,0 +1,27 @@
+{
+    "first strike": "last strike",
+    "is tapped": "is untapped",
+    "is untapped": "is tapped",
+    "flying": "ability: not flying",
+    "lifelink": "ability: you lose life equal to the damage this creature dealt",
+    "trample": "ability: not trample",
+    "haste": "ability: cannot attack or use abilities the turn it comes under your control",
+    "vigilance": "must tap to attack",
+    "reach": "ability: not reach",
+    "deathtouch": "ability: cannot kill creatures regardless of damage",
+    "scry (\\d+)": "don't look at \\1 cards and keep them on top of your library",
+    "draw (\\d+) cards": "discard \\1 cards",
+    "gain (\\d+) life": "lose \\1 life",
+    "lose (\\d+) life": "gain \\1 life",
+    "create (\\d+) (\\w+) tokens?": "destroy \\1 \\2 tokens",
+    "exile": "return from exile",
+    "destroy": "create",
+    "return": "send",
+    "{T}": "untap",
+    "{Q}": "tap",
+    "tap": "untap",
+    "untap": "tap",
+    "enters the battlefield": "leaves the battlefield"
+}
+
+
