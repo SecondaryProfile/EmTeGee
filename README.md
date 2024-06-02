@@ -1,6 +1,6 @@
-# EmTeeGee App
+# EmTeGee App
 
-EmTeeGee is a Kivy-based application that uses the Scryfall API to fetch Magic: The Gathering card details and generate the mechanical opposites of their Oracle text. Additionally, it includes a speak button that reads out the opposite text output.
+EmTeGee is a Kivy-based application that uses the Scryfall API to fetch Magic: The Gathering card details and generate the mechanical opposites of their Oracle text. Additionally, it includes a speak button that reads out the opposite text output.
 
 ## Features
 
@@ -37,7 +37,7 @@ EmTeeGee is a Kivy-based application that uses the Scryfall API to fetch Magic: 
 2. **Run the application:**
 
     ```sh
-    python EmTeeGee.py
+    python EmTeGee.py
     ```
 
 3. **Interact with the App:**

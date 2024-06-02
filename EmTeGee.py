@@ -78,7 +78,7 @@ def speak_text(text):
     subprocess.call(['say', text])
 
 # Kivy App
-class EmTeeGeeApp(App):
+class EmTeGeeApp(App):
     def build(self):
         self.layout = TexturedLayout(orientation='vertical', padding=(0, 10), spacing=10)
 
@@ -166,4 +166,4 @@ class EmTeeGeeApp(App):
             speak_text(random.choice(random_phrases))
 
 if __name__ == '__main__':
-    EmTeeGeeApp().run()
+    EmTeGeeApp().run()
