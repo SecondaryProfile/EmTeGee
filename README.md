@@ -12,11 +12,6 @@ EmTeGee is a Kivy-based application that uses the Scryfall API to fetch Magic: T
 
 1. **Clone the repository:**
 
-    ```sh
-    git clone <repository_url>
-    cd <repository_directory>
-    ```
-
 2. **Create a virtual environment (Optional):**
 
     ```sh
